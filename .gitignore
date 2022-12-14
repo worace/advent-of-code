@@ -1,0 +1,13 @@
+.metals/
+.bloop/
+*.DS_Store
+target/
+boot/
+lib_managed/
+src_managed/
+project/plugins/project/*.class
+*.log
+*.jar
+.idea/
+project/metals.sbt
+project/project/
