@@ -9,3 +9,5 @@ libraryDependencies ++= Seq(
 )
 
 testFrameworks += new TestFramework("munit.Framework"),
+
+Global / onChangedBuildSource := ReloadOnSourceChanges
