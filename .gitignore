@@ -3,6 +3,7 @@
 *.DS_Store
 target/
 boot/
+.bsp/
 lib_managed/
 src_managed/
 project/plugins/project/*.class
